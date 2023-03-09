@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v5YxhCa12eW31N7mOojUprRAJGv0DiCYjC3oY8vsYTyt0WExVrsgFbGfRPdxJ6p6F8hNSUppb3gRiDhRMr1tUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\muram\\source\\repos\\symyzi1\\Lab0\\Isu\\Isu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\muram\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

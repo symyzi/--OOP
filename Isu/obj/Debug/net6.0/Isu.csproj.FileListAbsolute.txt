@@ -1,0 +1,12 @@
+C:\Users\muram\source\repos\symyzi1\Lab0\Isu\bin\Debug\net6.0\Isu.deps.json
+C:\Users\muram\source\repos\symyzi1\Lab0\Isu\bin\Debug\net6.0\Isu.dll
+C:\Users\muram\source\repos\symyzi1\Lab0\Isu\bin\Debug\net6.0\Isu.pdb
+C:\Users\muram\source\repos\symyzi1\Lab0\Isu\obj\Debug\net6.0\Isu.csproj.AssemblyReference.cache
+C:\Users\muram\source\repos\symyzi1\Lab0\Isu\obj\Debug\net6.0\Isu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muram\source\repos\symyzi1\Lab0\Isu\obj\Debug\net6.0\Isu.AssemblyInfoInputs.cache
+C:\Users\muram\source\repos\symyzi1\Lab0\Isu\obj\Debug\net6.0\Isu.AssemblyInfo.cs
+C:\Users\muram\source\repos\symyzi1\Lab0\Isu\obj\Debug\net6.0\Isu.csproj.CoreCompileInputs.cache
+C:\Users\muram\source\repos\symyzi1\Lab0\Isu\obj\Debug\net6.0\Isu.dll
+C:\Users\muram\source\repos\symyzi1\Lab0\Isu\obj\Debug\net6.0\refint\Isu.dll
+C:\Users\muram\source\repos\symyzi1\Lab0\Isu\obj\Debug\net6.0\Isu.pdb
+C:\Users\muram\source\repos\symyzi1\Lab0\Isu\obj\Debug\net6.0\ref\Isu.dll
